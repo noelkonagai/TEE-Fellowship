@@ -1,0 +1,5 @@
+build/
+Libraries/libil2cpp.a
+Libraries/libiPhone-lib.a
+Unity-iPhone/
+Unity-iPhone-Tests/
