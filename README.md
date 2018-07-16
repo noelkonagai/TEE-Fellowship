@@ -34,6 +34,7 @@ This prototype is a spin-off from an object-recognition project made in TensorFl
 
 In order to improve the image of the NYU Shanghai Library amongst students, I created a number of designs for zodiac animals (and also non-zodiac animals) as promotional badges. They were given to students who filled out a library survey.
 
-![](pig_small.png) ![](panda_small.png) ![](doge_small.png)
-
+Pig                        |  Panda                    | Doge
+:-------------------------:|:-------------------------:|:-------------------------:
+![](pig_small.png)         | ![](panda_small.png)      | ![](doge_small.png)
 
