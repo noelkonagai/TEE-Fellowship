@@ -20,7 +20,7 @@ During this fellowship, I not only honed my previous skills related to machine l
 
 The first project I undertook was a step-by-step demonstration of how Python with TensorFlow can help research projects better understand and perhaps even predict future data. I scraped price and apartment data from various sources. I picked Zhongyuan as the source of my data, cleaned the data, engineered features and set up a DNN Regressors model. Link to the [Github repo](https://github.com/noelkonagai/shanghai-apartment), a [summary of findings](http://noelkonagai.co/portfolio/shanghai-apartment-rent-prediction/), and a [sample visualization using D3.js](https://noelkonagai.github.io/shanghai-apartment/)
 
-! [](metro_viz.png)
+![](metro_viz.png)
 
 ### MapBox in ARKit
 
